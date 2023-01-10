@@ -1,4 +1,4 @@
-# Conocimiento_CherryTree
-Enlace donde voy a compartir un fichero cherry tree con la recopilación de todos mis apuntes de varias ramas de informática con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
+# Conocimiento Obsidian
+Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://drive.google.com/file/d/1syxEKhnOFl5AkyTr9XwqstmbhSxGTomA/view?usp=share_link
+https://drive.google.com/file/d/136ztW_9L-BeZtBrrlrLPXawUeW0CpJ_5/view?usp=share_link
