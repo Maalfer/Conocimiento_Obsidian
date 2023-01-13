@@ -11,3 +11,4 @@ Se han incluido las siguientes mejoras dentro del conocimiento de obsidian:
 - Máquina EMPIRE BREAKOUT de vulnhub.
 - Atributos, métodos y constructor dentro de la carpeta POO de Python.
 - Funcionamiento de algunas librerías de Python.
+- Script de Python para automatizar el movimiento de las imágenes desde el directorio raíz hasta la carpeta images (Módulo OS y shutil)
