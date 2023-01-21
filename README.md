@@ -3,7 +3,7 @@ Enlace donde voy a compartir un fichero de obsidian con la recopilación de todo
 
 https://drive.google.com/file/d/10Nbh5_YQF-lHe1rmYhCvMfYub2tFtMFJ/view?usp=share_link
 
-VERSION 02
+VERSION 0.2
 
 - Más apuntes de la certificacion LPIC
 - Cómo configurar un servidor DHCP en Linux
