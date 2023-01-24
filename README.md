@@ -1,7 +1,14 @@
 # Conocimiento Obsidian
 Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://drive.google.com/file/d/10Nbh5_YQF-lHe1rmYhCvMfYub2tFtMFJ/view?usp=share_link
+https://drive.google.com/file/d/1lv9hcRZjLk8AcCmK7gkT8syICG85mpOg/view?usp=share_link
+
+VERSIÓN 0.3
+
+- Creackear hashes con Hashcat
+- Entornos virtuales de Python
+- Configuración y uso básico de SQL Server
+- Kubernetes - Instalación y administración de clusters, nodos y pods.
 
 VERSION 0.2
 
