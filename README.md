@@ -23,8 +23,6 @@ VERSION 0.2
 
 VERSIÓN 0.1
 
-Se han incluido las siguientes mejoras dentro del conocimiento de obsidian:
-
 - Nuevos apuntes de certificacion LPIC.
 - Máquina EMPIRE BREAKOUT de vulnhub.
 - Atributos, métodos y constructor dentro de la carpeta POO de Python.
