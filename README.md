@@ -1,7 +1,17 @@
 # Conocimiento Obsidian
 Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://drive.google.com/file/d/1lv9hcRZjLk8AcCmK7gkT8syICG85mpOg/view?usp=share_link
+https://drive.google.com/file/d/1i3mxW_nFnJ3VTE5Iy0NPTokaVgoA0KxJ/view?usp=share_link
+
+VERSIÓN 0.4
+
+- Servidor Proxy en Linux - SQUID
+- Máquina HackTheBox FOREST
+- Tutorial hacking windows Kerberoasting
+- Comando lsof para conocer qué servicio ocupa un determinado puerto en Linux.
+- Crear una herramienta para hacer web scrapping con bash.
+- Apuntes de varios comandos básicos y útiles de Linux
+- Expresiones regulares | Comando sed 
 
 VERSIÓN 0.3
 
