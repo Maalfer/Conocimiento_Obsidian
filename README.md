@@ -1,7 +1,29 @@
 # Conocimiento Obsidian
 Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://drive.google.com/file/d/1i3mxW_nFnJ3VTE5Iy0NPTokaVgoA0KxJ/view?usp=share_link
+https://drive.google.com/file/d/1zGzwIl1k-zj5a_x-8MxK9_yigrMGuW_-/view?usp=share_link
+
+VERSION 0.5
+
+- Cómo usar nmap para escaneos normales y de vulnerabilidades
+- Nmap para Windows
+- Ataques SQL injection de forma manual con burp suite y automático con SQLmap
+- Utilizar colores en scripts de bash
+- John The ripper (Cracking de hashes, passwords archivos .zip y .rar)
+- Actualización máquina armageddon hackthebox
+- Máquina SecNotes hackthebox
+- Interceptar las cookies de sesión
+- Comando test -f en Linux para comprobar la existencia de archivos.
+- Escalada de Privilegios con Python
+- Escalada de Privilegios con VIM
+- MAQUINA WALDO HackTheBox
+- MAQUINA TRICK HackTheBox
+- Buscar archivos de los que somos Propietarios y Tengamos Permisos
+- TCPDUMP - Comprobar conectividad de Trazas ICMP entre equipos
+- Comando CHOWN en Linux
+- STDIN - STDOUT - STDERR
+- PATH DE LINUX - Para que se un comando se ejecute con solo poner el nombre
+- Herramienta bash para escanear puertos internos de mi propia máquina
 
 VERSIÓN 0.4
 
