@@ -1,7 +1,12 @@
 # Conocimiento Obsidian
-Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
+Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática y hácking ético con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
 https://drive.google.com/file/d/19GnS521ohQPzyFk5oVNWKiBUYdU-m87l/view?usp=share_link
+
+# VÍDEOS DEL CANAL:
+ 
+ VÍDEO 2 --> https://youtu.be/_ab_HVP_lRc
+ VÍDEO 1 --> https://youtu.be/0bSABxauiMc
 
 VERSIÓN 0.6
 
