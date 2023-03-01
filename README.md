@@ -1,7 +1,20 @@
 # Conocimiento Obsidian
 Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://drive.google.com/file/d/1zGzwIl1k-zj5a_x-8MxK9_yigrMGuW_-/view?usp=share_link
+https://drive.google.com/file/d/19GnS521ohQPzyFk5oVNWKiBUYdU-m87l/view?usp=share_link
+
+VERSIÓN 0.6
+
+- Cómo usar smbclient
+- Cómo usar smbmap
+- Escaneos silenciosos con nmap
+- MAQUINA POSTMAN
+- Acceder id_rsa para iniciar sesión por SSH a la máquina
+- Máquina Doctor hackthebox
+- Vulnerabilidad Server-Side Template Injection (SSTI)
+- Esteganografía con Steghide
+- Máquna sectalks vulnhub
+- Máquina goodgames hackthebox
 
 VERSION 0.5
 
