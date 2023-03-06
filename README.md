@@ -4,6 +4,8 @@ Enlace donde voy a compartir un fichero de obsidian con la recopilación de todo
 https://drive.google.com/file/d/19GnS521ohQPzyFk5oVNWKiBUYdU-m87l/view?usp=share_link
 
 ### VÍDEOS DEL CANAL:
+
+ VÍDEO 3 --> https://youtu.be/lCsmw_sPdD8
  
  VÍDEO 2 --> https://youtu.be/_ab_HVP_lRc
  
