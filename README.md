@@ -1,7 +1,7 @@
 # Conocimiento Obsidian
 Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática y hácking ético con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://drive.google.com/file/d/1hEqllkUlLGJxZtaa41pbsBA23uzUj0xV/view?usp=share_link
+https://drive.google.com/file/d/1HlKaCYM8djmTRidLJn1cAXwPZqC_QWG-/view?usp=share_link
 
 ### VÍDEOS DEL CANAL:
 
@@ -12,6 +12,24 @@ https://drive.google.com/file/d/1hEqllkUlLGJxZtaa41pbsBA23uzUj0xV/view?usp=share
  VÍDEO 1 --> https://youtu.be/0bSABxauiMc
 
 -----------------------------------------------------------------------------------
+
+VERSION 0.8
+
+- Laboratorio 1 - OS command injection, simple case (Portswigger)
+- Laboratorio 2 - Blind OS command injection with time delays
+- Laboratorio 3 - Blind OS command injection with output redirection
+- MAQUINA CYBERSPLOIT (Decodificar base64, Inspeccionar código fuente de la página, convertir archivo en binario, escalada de privilegios en Ubuntu 12.04 con exploit de exploitdb overlayfs y compilar exploit en .c con el comando gcc)
+- Escalada de Privilegios en Docker que no pide ser Usuario Sudo
+- SET - Social Engineering Toolkit - Ataques de Phising
+- Comprimir y Descomprimir en Linux
+- MÁQUINA LEGACY (SMB, EternalBlue en 32 bits y Metasploit)
+- MÁQUINA NETMON (FTP con anonymous, vulnerabilidad PRTG en FICHEROS DONDE SE GUARDAN CREDENCIALES)
+- Puertos más Importantes
+- Fuzzing con BurpSuite
+- MAQUINA SIMPLE CTF (Vulnerabilidad SQLi CMS made simple con script de Python, ataque fuerza bruta con hydra y escalada de privilegios con sudo -l y con vim)
+- MAQUINA ROOTME (Fuzzing, php malicioso camuflándolo como phtml en burpsuite, escalada de privilegios comprobando permisos SUID de Python)
+- Conectar Python con AbuseIP
+- MAQUINA SOURCE (Servidor Webmin con SSL, exploit para atacar webmin y obtener ejecución remota de comandos)
 
 VERSIÓN 0.7
 
