@@ -1,7 +1,7 @@
 # Conocimiento Obsidian
 Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática y hácking ético con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://drive.google.com/file/d/1HlKaCYM8djmTRidLJn1cAXwPZqC_QWG-/view?usp=share_link
+https://drive.google.com/file/d/1PVx-xTzNFq824WeSDQW13GqjHV0aeR8F/view?usp=share_link
 
 ### VÍDEOS DEL CANAL:
 
@@ -12,6 +12,33 @@ https://drive.google.com/file/d/1HlKaCYM8djmTRidLJn1cAXwPZqC_QWG-/view?usp=share
  VÍDEO 1 --> https://youtu.be/0bSABxauiMc
 
 -----------------------------------------------------------------------------------
+
+VERSION 0.9
+
+- Nice Netcat Picoctf (Convertir números a ASCII)
+- MAQUINA OPTIMUM (Vulnerabilidad para ejecutar un netcat en windows)
+- MÁQUINA LOVE (Vulnerabilidad voting system, php malicioso, escalada privilegios winpeas y vulnerabilidad AlwaysInstallElevated con fichero .msi malicioso de msfvenom)
+- MÁQUINA PAPER (resolución DNS con etc hosts y virtual hosting)
+- GUARDAR TRÁFICO DE NMAP EN FICHERO .CAP CON TCPDUMP
+- Protocolos UDP y TCP
+- Modelo OSI
+- Máscara de red
+- Dirección Loopback
+- Direcciones MAC
+- Técnicas de Evasión de Firewall con Nmap
+- Conectar Python con Shodan
+- Conectar Python con ChatGPT
+- Crear Recursos Compartidos con Samba en Linux y acceder a ellos con smbclient
+- HERRAMIENTA BASH PARA DETECTAR PUERTOS ABIERTOS DE UNA IP
+- HERRAMIENTA EN BASH DETECTAR EQUIPOS CONECTADOS A MI RED
+- DETECTAR PUERTOS ABIERTOS DENTRO DE MI RED CON MASSCAN
+- Vulnerabilidad Heartbleed
+- SSLSCAN - Analizar Certificado SSL en webs HTTPS
+- MÁQUINA VALENTINE (Vulnerabilidad heartbleed, descifrar en base64 y hexadecimal, conectarse por ssh con id_rsa)
+- Introducción - Entorno Vulnerable SMB con Docker
+- MONTURA DEL RECURSO COMPARTIDO EN NUESTRO EQUIPO
+- MAQUINA TIMELAPSE
+- MAQUINA VALIDATION (sql injection, Obtener registros, columnas y tablas de bases de datos desde burpsuite, Subir archivo PHP con SQL Injection)
 
 VERSION 0.8
 
