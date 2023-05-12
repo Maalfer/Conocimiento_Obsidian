@@ -1,7 +1,7 @@
 # Conocimiento Obsidian
 Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática y hácking ético con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://drive.google.com/file/d/1PVx-xTzNFq824WeSDQW13GqjHV0aeR8F/view?usp=share_link
+https://drive.google.com/file/d/1Tg34PGQIlPr4-EaPVie2zEftnlNZIryu/view?usp=share_link
 
 ### VÍDEOS DEL CANAL:
 
@@ -34,6 +34,33 @@ Paso 4 -> Empezar a estudiar :)
 ![image](https://user-images.githubusercontent.com/96432001/233777846-0d399751-6b24-4735-974c-6ea69467a69e.png)
 
 -----------------------------------------------------------------------------------
+
+VERSION 1.0
+
+- Hacking WordPress
+- Hacking Joomla - Joomscan
+- MÁQUINA ACCESS (Conexión FTP por anonymous y extraer información de base de datos Microsoft Access mdb)
+- Hacking Drupal
+- Hacking Magento
+- MAQUINA NAPPING (Intento de CSRF, vulnerabilidad target blank en el código fuente de la web, recibir password con netcat, urlencodear password recibida con burpsuite, conectarse por ssh, ejecutar linux-exploit-suggester y vulnerabilidad pwnkit)
+- Kerbrute
+- MAQUINA ATTACKTIVE DIRECTORY (enum4linux, kerbrute enumerar usuarios, ASREPRoasting obtener TGT, john the ripper, smbclient para listar recursos compartidos, secredump dumpear hashes y pass the hash)
+- ASREPRoasting
+- MAQUINA BASIC PENTESTING (Enum4linux enumerar puerto 445 smb, ataque fuerza bruta hydra, rabbit hole pwnkit, comando scp para compartir archivo por ssh y cracking de id_rsa)
+- Cross-Site Scripting (XSS)
+- Librería Pickle de Python
+- Scripts de Nmap
+- Protocolo HTTP-HTTPS + Wireshark
+- Recibir Credenciales SSH
+- MAQUINA MR ROBOT (hacking wordpress, wpscan, xmlrpc, mejorar la bash con python, suid con modo interactivo de nmap para convertirse en root)
+- PKEXEC - Escalada de Privilegios
+- Inspeccionar Proyectos de Github para Escalar Privilegios - Comando git log
+- MÁQUINA SEQUEL (Acceder a Bases de Datos SQL)
+- MÁQUINA ANTIQUE (Telnet, comando xxd para convertir binario y snmpwalk)
+- Enumeración SNMT Puerto 161 por UDP
+- MÁQUINA RETURN (Conexión SMB utilizando Crackmapexec y conexión remota con evil-winrm)
+- API de Telegram + Python
+- Controlar Excel con Bash - xlsx2csv
 
 VERSION 0.9
 
