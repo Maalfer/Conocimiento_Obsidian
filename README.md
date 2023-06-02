@@ -1,7 +1,7 @@
 # Conocimiento Obsidian
 Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática y hácking ético con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://drive.google.com/file/d/1Tg34PGQIlPr4-EaPVie2zEftnlNZIryu/view?usp=share_link
+https://drive.google.com/file/d/1dKIM_66avzYpmRWDxl6nqE_njzjC0bWI/view?usp=drive_link
 
 ### VÍDEOS DEL CANAL:
 
@@ -36,6 +36,19 @@ Paso 4 -> Empezar a estudiar :)
 ![image](https://user-images.githubusercontent.com/96432001/233777846-0d399751-6b24-4735-974c-6ea69467a69e.png)
 
 -----------------------------------------------------------------------------------
+
+VERSION 1.1
+
+- Librería JSON de Python
+- MAQUINA OVERPASS (Obtener id_rsa modificando cookies en web, ssh2john para cracking de ir_rsa y escalada privilegios permisos suid con exploit de pkexec)
+- Funciones en Bash
+- Gestión de Errores en Bash
+- Librería ipaddress de python
+- Esteganografía con Steghide, Foremost y BinWalk
+- Comando lsb_release
+- Como Gestionar Bases de Datos no Relacionales MongoDB
+- Máquina agent sudo tryhackme
+- Máquina anonymous tryhackme
 
 VERSION 1.0
 
