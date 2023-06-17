@@ -1,7 +1,7 @@
 # Conocimiento Obsidian
 Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática y hácking ético con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://drive.google.com/file/d/13SK3VBNZHZkkDeetzHFC10eAkFMPqjm9/view?usp=drive_link
+https://drive.google.com/file/d/1xgh-ikD8ydtxRewBpN80nU-7iQxImzmT/view?usp=sharing
 
 ### VÍDEOS DEL CANAL:
 
@@ -36,6 +36,15 @@ Paso 4 -> Empezar a estudiar :)
 ![image](https://user-images.githubusercontent.com/96432001/233777846-0d399751-6b24-4735-974c-6ea69467a69e.png)
 
 -----------------------------------------------------------------------------------
+
+VERSIÓN 1.2
+
+- Máquina agent sudo de tryhackme
+- MAQUINA WATCHER tryhackme
+- MAQUINA DRIFTINGBLUES 1 (ftp anonymous, fcrackzip, fuzzing de extensiones y escalada de privilegios SUID con vulnerabilidad poolkit)
+- VARIABLES LOCALES Y GLOBALES EN FUNCIONES / EXTRAER CONTENIDO DE UNA FUNCIÓN EN BASH.
+- Librería netifaces de Python
+- Correcciones y mejoras del orden en los apuntes
 
 VERSION 1.1
 
