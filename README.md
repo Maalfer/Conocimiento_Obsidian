@@ -1,7 +1,7 @@
 # Conocimiento Obsidian
 Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática y hácking ético con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://drive.google.com/file/d/1xgh-ikD8ydtxRewBpN80nU-7iQxImzmT/view?usp=sharing
+https://drive.google.com/file/d/1UsMvXaq9xjVMAf5IYk3Fy-6UVvIXYajx/view?usp=sharing
 
 ### VÍDEOS DEL CANAL:
 
@@ -36,6 +36,20 @@ Paso 4 -> Empezar a estudiar :)
 ![image](https://user-images.githubusercontent.com/96432001/233777846-0d399751-6b24-4735-974c-6ea69467a69e.png)
 
 -----------------------------------------------------------------------------------
+
+VERSIÓN 1.3
+
+- Máquina agent sudo de tryhackme
+- MAQUINA WATCHER tryhackme
+- MAQUINA DRIFTINGBLUES 1 (ftp anonymous, fcrackzip, fuzzing de extensiones y escalada de privilegios SUID con vulnerabilidad poolkit)
+- VARIABLES LOCALES Y GLOBALES EN FUNCIONES / EXTRAER CONTENIDO DE UNA FUNCIÓN EN BASH.
+- Librería netifaces de Python
+- MAQUINA YEAR OF THE RABBIT (Fuzzing, desactivar javascript del firefox, ruta oculta con burpsuite, obtener credenciales comando strings, hydra y escalada privilegios binarios SUID y poolkit vulnerable)
+- Log Poissoning
+- MAQUINA ARCHANGEL (Fuzzing, Local File Inclusion con wrappers, log poissoning y manipulación del PATH)
+- Comando comm - Para comparar líneas de archivos
+- Enumeración de Usuarios Active Directory - Lookupsid
+- MAQUINA VULNED ROASTED (enum4linux, enumeración de usuarios con impacket-lookupsid, asreproasting y kerberoasting, john the ripper y acceso con evil-winrm)
 
 VERSIÓN 1.2
 
