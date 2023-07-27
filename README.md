@@ -1,7 +1,7 @@
 # Conocimiento Obsidian
 Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática y hácking ético con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://drive.google.com/file/d/1UsMvXaq9xjVMAf5IYk3Fy-6UVvIXYajx/view?usp=sharing
+https://drive.google.com/file/d/1nvDnnm2FwXDTjyATmT2ewJqAPyqYFX3k/view?usp=sharing
 
 ### VÍDEOS DEL CANAL:
 
@@ -36,6 +36,14 @@ Paso 4 -> Empezar a estudiar :)
 ![image](https://user-images.githubusercontent.com/96432001/233777846-0d399751-6b24-4735-974c-6ea69467a69e.png)
 
 -----------------------------------------------------------------------------------
+
+VERSIÓN 1.4
+
+- MAQUINA VULNVERSITY (Fuzzing, vulnerabilidad php malicioso y escalada de privilegios systemctl)
+- MAQUINA STARTUP (Fuzzing, PHP malicioso, analizar pcap con wireshark y escalada de privilegios modificando script que ejecuta root para enviarnos una reverse shell)
+- MÁQUINA ARCHETYPE (Recursos Compartidos SMB, SQL, Servidor Web y NetCat)
+- MÁQUINA BACKDOOR (Exploit con Path Traversal, WordPress y Ataque por Fuerza Bruta a URLS con Python)
+- MAQUINA VULNED ROASTED (enum4linux, enumeración de usuarios con impacket-lookupsid, asreproasting y kerberoasting, john the ripper y acceso con evil-winrm)
 
 VERSIÓN 1.3
 
