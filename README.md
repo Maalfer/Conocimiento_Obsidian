@@ -1,7 +1,7 @@
 # Conocimiento Obsidian
 Enlace donde voy a compartir un fichero de obsidian con la recopilación de todos mis apuntes de varias ramas de informática y hácking ético con los seguidores del canal, de tal forma que podremos mantener una base de datos de conocimiento en común. Debo compartir este fichero a través de un enlace externo debido al límite de almacenamiento de github.
 
-https://mega.nz/file/aBpTGSxS#FkAfC25m6CMwIyFvLzjZxGrdBNC97pEO28cAaASmpQU
+https://mega.nz/file/vUJhiLLA#psagrgCrbmnfF3518u8wZapRSCv0GxB5biJbWIPx4Eo
 
 ### VÍDEOS DEL CANAL:
 
