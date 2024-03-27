@@ -5,6 +5,8 @@ https://mega.nz/file/bUZAlIYS#JOM8nqtAn3Pc6o5C71EWeneb9W3RifJOSaSRKI2Vu80
 
 ### VÍDEOS DEL CANAL:
 
+ VÍDEO 6 --> https://www.youtube.com/watch?v=VEmesgWmEUI
+ 
  VÍDEO 5 --> https://youtu.be/ZqusCsluZ4c
 
  VÍDEO 4 --> https://youtu.be/3kDLRq8KL7M
